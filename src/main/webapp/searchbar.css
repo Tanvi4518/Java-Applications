@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family:sans-serif;
+}
+body{
+	background:#CAE9F5;
+}
+.main{
+	position: absolute;
+	top:50%;
+	Left: 50%;
+	transform: translate(-50%,-50%)
+}
+input{
+	border:3px solid blue;
+	height:50px;
+	width:500px;
+	border-radius:50px;
+}
+div.main button
+{
+	color:blue;
+	background-color:white;
+	border:red;
+	outline:none;
+	font-size:14px;
+	padding:5px 12px;
+	margin-left:210px;
+	font-weight:500;
+	border:3px solid blue;
+	height:30px;
+	width:100px;
+	border-radius:50px;
+}
+.main1{
+	position: absolute;
+	top:110%;
+	Left: 50%;
+	transform: translate(-50%,-50%)
+}
